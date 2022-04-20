@@ -1,0 +1,34 @@
+[
+  {
+    "id": "1",
+    "first_name": "Abe",
+    "last_name": "Foord",
+    "email": "afoord0@harvard.edu",
+    "gender": "Female",
+    "ip_address": "81.38.18.88"
+  },
+  {
+    "id": "2",
+    "first_name": "Editha",
+    "last_name": "Castagnaro",
+    "email": "ecastagnaro1@nih.gov",
+    "gender": "Genderqueer",
+    "ip_address": "181.63.39.199"
+  },
+  {
+    "id": "3",
+    "first_name": "Tildie",
+    "last_name": "Furminger",
+    "email": "tfurminger2@hud.gov",
+    "gender": "Male",
+    "ip_address": "0.199.18.3"
+  },
+  {
+    "id": "4",
+    "first_name": "Test3",
+    "last_name": "Furminger",
+    "email": "tfurminger2@hud.gov",
+    "gender": "Male",
+    "ip_address": "0.199.18.3"
+  }
+]
